@@ -44,8 +44,7 @@
 
 ## 📸 Visual Highlights
 
-# LOGINPAGE
-
+### LOGINPAGE
 <img width="301" alt="Screenshot 2025-05-04 at 6 56 16 PM" src="https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" />
 
 ### 🗺️ Choropleth Map – Land Listings by State
