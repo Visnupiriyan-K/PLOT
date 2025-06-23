@@ -4,7 +4,21 @@
 
 ## 📌 Project Overview
 
-**PLOT** is a mobile-first, blockchain-powered platform developed to revolutionize property registration, verification, and ownership transfer. It tackles core issues in the real estate sector—such as document fraud, data inaccessibility, and lengthy bureaucratic processes—by digitizing and decentralizing land records through blockchain and real-time data visualization.
+<details>
+<summary><strong>❗ Problem Statement (click to expand)</strong></summary>
+
+<ul>
+  <li><strong>📄 Physical Storage & Tampering:</strong> Documents are vulnerable to loss and forgery.</li>
+  <li><strong>🔍 Manual Verification:</strong> Ownership is verified through slow, outdated systems.</li>
+  <li><strong>🚫 Lack of Transparency:</strong> No clear view into transaction history or property status.</li>
+  <li><strong>🔒 Limited Access:</strong> Real-time access for owners and third parties is lacking.</li>
+  <li><strong>⚠️ No Audit Trail:</strong> No tamper-proof historical ownership log exists.</li>
+  <li><strong>🧩 High Fraud Risk:</strong> The system is prone to duplication and manipulation.</li>
+</ul>
+
+<p><em>These systemic flaws disrupt trust, slow down investment, and complicate governance.</em></p>
+</details>
+
 
 > Developed as an academic project at **California State University, Long Beach**, PLOT combines blockchain, data analytics, UI/UX design, and product strategy to demonstrate an end-to-end prototype for digital property governance.
 
