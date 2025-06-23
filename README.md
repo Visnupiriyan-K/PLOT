@@ -63,7 +63,7 @@
 ### 🗺️ State-Level Property Count by Acre Lot
 
 <p align="center">
-   <img width="600" alt="image" src="https://github.com/user-attachments/assets/0ebebf72-5fe2-459c-b788-ccf7500c8a8e" />
+   <img width="700" alt="image" src="https://github.com/user-attachments/assets/0ebebf72-5fe2-459c-b788-ccf7500c8a8e" />
 </p>
 
 **Context:**  
@@ -77,7 +77,7 @@
 ### 🏘️ Average House Size by State
 
 <p align="center">
-  <img width="443" alt="image" src="https://github.com/user-attachments/assets/ccffbae6-6374-499f-b909-d3beb7607079" />
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/ccffbae6-6374-499f-b909-d3beb7607079" />
 </p>
 
 **Context:**  
@@ -91,7 +91,7 @@
 ### 💰 Average Price by State
 
 <p align="center">
-  <img width="468" alt="image" src="https://github.com/user-attachments/assets/6631ab4b-17b5-4cb2-8301-7f4c70d25f98" />
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/6631ab4b-17b5-4cb2-8301-7f4c70d25f98" />
 </p>
 
 **Context:**  
@@ -104,7 +104,7 @@
 ### 📊 Real Estate Dashboard with KPIs
 
 <p align="center">
-  <img width="606" alt="image" src="https://github.com/user-attachments/assets/05cb20da-170b-4393-93e9-20d21dbd84a0" />
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/05cb20da-170b-4393-93e9-20d21dbd84a0" />
 </p>
 
 **Context:**  
