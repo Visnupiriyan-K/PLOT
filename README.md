@@ -56,11 +56,67 @@
 
 ---
 
+## 📈 Analytics Dashboard Highlights
+
+---
+
+### 🗺️ State-Level Property Count by Acre Lot
+
+<p align="center">
+   <img width="600" alt="image" src="https://github.com/user-attachments/assets/0ebebf72-5fe2-459c-b788-ccf7500c8a8e" />
+</p>
+
+**Context:**  
+- 🟦 **Dark Blue** = Fewer land listings (lower market activity)  
+- 🔴 **Bright Red** = Higher number of listings (more active market)  
+- **Texas**, **Florida**, and **California** show high transaction volumes  
+- **North Dakota** and **Wyoming** indicate low or missing data  
+
+---
+
+### 🏘️ Average House Size by State
+
+<p align="center">
+  <img width="443" alt="image" src="https://github.com/user-attachments/assets/ccffbae6-6374-499f-b909-d3beb7607079" />
+</p>
+
+**Context:**  
+- 🔴 **Red shades** = Larger houses (e.g., Utah at **2,939 sq ft**)  
+- 🔵 **Blue shades** = Smaller houses (e.g., Iowa at **1,642 sq ft**)  
+- Regions like **Utah**, **Colorado**, and **Wyoming** trend toward spacious housing  
+- **Michigan**, **Florida**, and **Iowa** lean toward compact homes  
+
+---
+
+### 💰 Average Price by State
+
+<p align="center">
+  <img width="468" alt="image" src="https://github.com/user-attachments/assets/6631ab4b-17b5-4cb2-8301-7f4c70d25f98" />
+</p>
+
+**Context:**  
+- 🔴 **Dark red** = High average prices (e.g., DC at **$1.2M**, CA, CO)  
+- 🔵 **Dark blue** = Low-priced markets (e.g., Ohio, West Virginia, Iowa under **$265K**)  
+- Useful for affordability assessment and regional pricing strategy  
+
+---
+
+### 📊 Real Estate Dashboard with KPIs
+
+<p align="center">
+  <img width="606" alt="image" src="https://github.com/user-attachments/assets/05cb20da-170b-4393-93e9-20d21dbd84a0" />
+</p>
+
+**Context:**  
+This dashboard gives a **national snapshot** of the U.S. housing market, offering:  
+- 🛠️ Key Performance Indicators (KPIs)  
+- 🗺️ Geographic heatmaps  
+- 📊 Housing, price, and land metrics by state  
+- Supports decision-making in **urban planning**, **policy**, and **investment**  
+
+
+---
 ## 📸 Visual Highlights
-
-### 🗺️ Choropleth Map – Land Listings by State
-![Land Listings Choropleth](screenshots/choropleth_map.png)
-
 ## 🔐 UI Screens – Set 1: Login & Identity
 
 <table align="center">
@@ -121,22 +177,6 @@
     <td><img width="180" alt="TRANSACTION" src="https://github.com/user-attachments/assets/719bac0d-97fc-4036-ac57-f22fc0e487bb" /></td>
   </tr>
 </table>
-
-
-
-### 📊 Avg House Size by State
-![Avg House Size](screenshots/avg_house_size_bar.png)
-
-### 💸 Avg Price by State
-![Avg Price](screenshots/avg_price_bar.png)
-
-### 📱 PLOT Mobile App – Homepage UI
-![App Homepage](screenshots/ui_homepage.png)
-
-### 🔁 Transfer & Verification Flow
-![Transfer Flow](screenshots/ui_transfer.png)
-
-> 💡 To enable screenshots, upload your image files to `/screenshots/` and replace the file names above as needed.
 
 ---
 
