@@ -49,37 +49,65 @@
 
 ## 🔐 UI Screens – Set 1: Login & Identity
 
-<p align="center">
-  <img width="170" alt="Screenshot 2025-05-04 at 6 56 16 PM" src="https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/f84559e6-854a-4852-8d23-92f67ca97f49" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/7de7f4df-20d6-49e2-9d61-e9612e44dcc5" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/3a744f32-b702-434a-b23c-395dc0a175b8" />
-  <img width="174" alt="image" src="https://github.com/user-attachments/assets/5aa2dc38-8697-4831-833f-dd9f453f8666" />
-</p>
+<table align="center">
+  <tr>
+    <th>LOGINPAGE</th>
+    <th>SIGNUP</th>
+    <th>VERIFICATION</th>
+    <th>HOMEPAGE</th>
+    <th>USERID</th>
+  </tr>
+  <tr>
+    <td><img width="170" alt="LOGINPAGE" src="https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" /></td>
+    <td><img width="180" alt="SIGNUP" src="https://github.com/user-attachments/assets/f84559e6-854a-4852-8d23-92f67ca97f49" /></td>
+    <td><img width="180" alt="VERIFICATION" src="https://github.com/user-attachments/assets/7de7f4df-20d6-49e2-9d61-e9612e44dcc5" /></td>
+    <td><img width="180" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/3a744f32-b702-434a-b23c-395dc0a175b8" /></td>
+    <td><img width="174" alt="USERID" src="https://github.com/user-attachments/assets/5aa2dc38-8697-4831-833f-dd9f453f8666" /></td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 UI Screens – Set 2: Navigation & Dashboard
 
-<p align="center">
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/c40a78fd-7a7d-45ed-a87a-71b406025065" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/841cd0a9-a6d3-4631-a0af-12ae9587259c" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/ab771129-796f-46a3-a6da-ee9fc2595312" />
-  <img width="186" alt="image" src="https://github.com/user-attachments/assets/e299f73c-ea06-400b-af25-25c8e9fa77fa" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/ddfcbfbf-ca37-439a-911e-5b84d88cccf8" />
-</p>
+<table align="center">
+  <tr>
+    <th>HOMEPAGE</th>
+    <th>MENUBAR</th>
+    <th>REGISTRY</th>
+    <th>ANALYTICS</th>
+    <th>TRANSFER</th>
+  </tr>
+  <tr>
+    <td><img width="180" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/c40a78fd-7a7d-45ed-a87a-71b406025065" /></td>
+    <td><img width="180" alt="MENUBAR" src="https://github.com/user-attachments/assets/841cd0a9-a6d3-4631-a0af-12ae9587259c" /></td>
+    <td><img width="180" alt="REGISTRY" src="https://github.com/user-attachments/assets/ab771129-796f-46a3-a6da-ee9fc2595312" /></td>
+    <td><img width="186" alt="ANALYTICS" src="https://github.com/user-attachments/assets/e299f73c-ea06-400b-af25-25c8e9fa77fa" /></td>
+    <td><img width="180" alt="TRANSFER" src="https://github.com/user-attachments/assets/ddfcbfbf-ca37-439a-911e-5b84d88cccf8" /></td>
+  </tr>
+</table>
 
 ---
 
 ## 🧭 UI Screens – Set 3: Search & Transaction Details
 
-<p align="center">
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/b395cf0f-b602-4d8f-9c88-c101c2200f10" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/38a481f3-92ad-4eb9-ad9b-d70a8570f075" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/eee557c4-a4fd-4f86-a3b1-9df96656c8cc" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/9edcec5a-186a-4761-b1df-f5d616a85e6e" />
-  <img width="180" alt="image" src="https://github.com/user-attachments/assets/719bac0d-97fc-4036-ac57-f22fc0e487bb" />
-</p>
+<table align="center">
+  <tr>
+    <th>SEARCH</th>
+    <th>PY DETAILS</th>
+    <th>LOCATION</th>
+    <th>HISTORY</th>
+    <th>TRANSACTION</th>
+  </tr>
+  <tr>
+    <td><img width="180" alt="SEARCH" src="https://github.com/user-attachments/assets/b395cf0f-b602-4d8f-9c88-c101c2200f10" /></td>
+    <td><img width="180" alt="PY DETAILS" src="https://github.com/user-attachments/assets/38a481f3-92ad-4eb9-ad9b-d70a8570f075" /></td>
+    <td><img width="180" alt="LOCATION" src="https://github.com/user-attachments/assets/eee557c4-a4fd-4f86-a3b1-9df96656c8cc" /></td>
+    <td><img width="180" alt="HISTORY" src="https://github.com/user-attachments/assets/9edcec5a-186a-4761-b1df-f5d616a85e6e" /></td>
+    <td><img width="180" alt="TRANSACTION" src="https://github.com/user-attachments/assets/719bac0d-97fc-4036-ac57-f22fc0e487bb" /></td>
+  </tr>
+</table>
+
 
 
 ### 📊 Avg House Size by State
