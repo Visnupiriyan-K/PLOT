@@ -44,9 +44,6 @@
 
 ## 📸 Visual Highlights
 
-### LOGINPAGE
-<img width="301" alt="Screenshot 2025-05-04 at 6 56 16 PM" src="https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" />
-
 ### 🗺️ Choropleth Map – Land Listings by State
 ![Land Listings Choropleth](screenshots/choropleth_map.png)
 
@@ -65,11 +62,11 @@
 ## 📊 UI Screens – Set 2: Navigation & Dashboard
 
 <p align="center">
-  <img src="screenshots/HOMEPAGE.png" width="180"/>
-  <img src="screenshots/MENUBAR.png" width="180"/>
-  <img src="screenshots/REGISTRY.png" width="180"/>
-  <img src="screenshots/ANALYTICS.png" width="180"/>
-  <img src="screenshots/TRANSFER.png" width="180"/>
+  <img width="129" alt="image" src="https://github.com/user-attachments/assets/c40a78fd-7a7d-45ed-a87a-71b406025065" />
+  <img width="129" alt="image" src="https://github.com/user-attachments/assets/841cd0a9-a6d3-4631-a0af-12ae9587259c" />
+  <img width="130" alt="image" src="https://github.com/user-attachments/assets/ab771129-796f-46a3-a6da-ee9fc2595312" />
+  <img width="136" alt="image" src="https://github.com/user-attachments/assets/e299f73c-ea06-400b-af25-25c8e9fa77fa" />
+  <img width="130" alt="image" src="https://github.com/user-attachments/assets/ddfcbfbf-ca37-439a-911e-5b84d88cccf8" />
 </p>
 
 ---
@@ -77,11 +74,11 @@
 ## 🧭 UI Screens – Set 3: Search & Transaction Details
 
 <p align="center">
-  <img src="screenshots/SEARCH.png" width="180"/>
-  <img src="screenshots/PY_DETAILS.png" width="180"/>
-  <img src="screenshots/LOCATION.png" width="180"/>
-  <img src="screenshots/HISTORY.png" width="180"/>
-  <img src="screenshots/TRANSACTION.png" width="180"/>
+  <img width="180" alt="image" src="https://github.com/user-attachments/assets/b395cf0f-b602-4d8f-9c88-c101c2200f10" />
+  <img width="180" alt="image" src="https://github.com/user-attachments/assets/38a481f3-92ad-4eb9-ad9b-d70a8570f075" />
+  <img width="180" alt="image" src="https://github.com/user-attachments/assets/eee557c4-a4fd-4f86-a3b1-9df96656c8cc" />
+  <img width="180" alt="image" src="https://github.com/user-attachments/assets/9edcec5a-186a-4761-b1df-f5d616a85e6e" />
+  <img width="180" alt="image" src="https://github.com/user-attachments/assets/719bac0d-97fc-4036-ac57-f22fc0e487bb" />
 </p>
 
 
