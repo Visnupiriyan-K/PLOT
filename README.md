@@ -53,7 +53,7 @@
 ## 🔐 UI Screens – Set 1: Login & Identity
 
 <p align="center">
-  <img src="screenshots/https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" width="180"/>
+  <img width="301" alt="Screenshot 2025-05-04 at 6 56 16 PM" src="https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" />
   <img src="screenshots/SIGNUP.png" width="180"/>
   <img src="screenshots/VERIFICATION.png" width="180"/>
   <img src="screenshots/HOMEPAGE.png" width="180"/>
