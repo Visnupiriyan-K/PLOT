@@ -53,11 +53,11 @@
 ## 🔐 UI Screens – Set 1: Login & Identity
 
 <p align="center">
-  <img width="301" alt="Screenshot 2025-05-04 at 6 56 16 PM" src="https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" />
-  <img width="144" alt="image" src="https://github.com/user-attachments/assets/f84559e6-854a-4852-8d23-92f67ca97f49" />
-  <img width="144" alt="image" src="https://github.com/user-attachments/assets/7de7f4df-20d6-49e2-9d61-e9612e44dcc5" />
-  <img src="screenshots/HOMEPAGE.png" width="180"/>
-  <img src="screenshots/USERID.png" width="180"/>
+  <img width="180" alt="Screenshot 2025-05-04 at 6 56 16 PM" src="https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" />
+  <img width="180" alt="image" src="https://github.com/user-attachments/assets/f84559e6-854a-4852-8d23-92f67ca97f49" />
+  <img width="180" alt="image" src="https://github.com/user-attachments/assets/7de7f4df-20d6-49e2-9d61-e9612e44dcc5" />
+  <img width="180" alt="image" src="https://github.com/user-attachments/assets/3a744f32-b702-434a-b23c-395dc0a175b8" />
+  <img width="180" alt="image" src="https://github.com/user-attachments/assets/5aa2dc38-8697-4831-833f-dd9f453f8666" />
 </p>
 
 ---
