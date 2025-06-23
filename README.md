@@ -50,6 +50,41 @@
 ### 🗺️ Choropleth Map – Land Listings by State
 ![Land Listings Choropleth](screenshots/choropleth_map.png)
 
+## 🔐 UI Screens – Set 1: Login & Identity
+
+<p align="center">
+  <img src="screenshots/LOGINPAGE.png" width="180"/>
+  <img src="screenshots/SIGNUP.png" width="180"/>
+  <img src="screenshots/VERIFICATION.png" width="180"/>
+  <img src="screenshots/HOMEPAGE.png" width="180"/>
+  <img src="screenshots/USERID.png" width="180"/>
+</p>
+
+---
+
+## 📊 UI Screens – Set 2: Navigation & Dashboard
+
+<p align="center">
+  <img src="screenshots/HOMEPAGE.png" width="180"/>
+  <img src="screenshots/MENUBAR.png" width="180"/>
+  <img src="screenshots/REGISTRY.png" width="180"/>
+  <img src="screenshots/ANALYTICS.png" width="180"/>
+  <img src="screenshots/TRANSFER.png" width="180"/>
+</p>
+
+---
+
+## 🧭 UI Screens – Set 3: Search & Transaction Details
+
+<p align="center">
+  <img src="screenshots/SEARCH.png" width="180"/>
+  <img src="screenshots/PY_DETAILS.png" width="180"/>
+  <img src="screenshots/LOCATION.png" width="180"/>
+  <img src="screenshots/HISTORY.png" width="180"/>
+  <img src="screenshots/TRANSACTION.png" width="180"/>
+</p>
+
+
 ### 📊 Avg House Size by State
 ![Avg House Size](screenshots/avg_house_size_bar.png)
 
