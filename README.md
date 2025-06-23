@@ -21,12 +21,3 @@ PLOT is a blockchain-powered, mobile-first application designed to bring transpa
 See `docs/` for project management artifacts and product planning.
 See `src/` for prototype mockups and data logic.
 See `data/` for cleaned and raw datasets.
-
-## 🤝 Contributors
-- Yesha Ajaybhai Doshi
-- Shoaeb Nawab Shaik
-- Rithika Goud Pabathi
-- Visnupriyan Kumarraja
-
-## 📄 License
-MIT
