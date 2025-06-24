@@ -2,63 +2,24 @@
 
 ---
 
-## 📌 Project Overview
+## 📂 SECTION 1: Property Management Today & the Problem We Aim to Solve
 
-<details>
-<summary><strong>❗ Problem Statement (click to expand)</strong></summary>
+Modern-day property management is mired in outdated practices and inefficiencies:
 
-<ul>
-  <li><strong>📄 Physical Storage & Tampering:</strong> Documents are vulnerable to loss and forgery.</li>
-  <li><strong>🔍 Manual Verification:</strong> Ownership is verified through slow, outdated systems.</li>
-  <li><strong>🚫 Lack of Transparency:</strong> No clear view into transaction history or property status.</li>
-  <li><strong>🔒 Limited Access:</strong> Real-time access for owners and third parties is lacking.</li>
-  <li><strong>⚠️ No Audit Trail:</strong> No tamper-proof historical ownership log exists.</li>
-  <li><strong>🧩 High Fraud Risk:</strong> The system is prone to duplication and manipulation.</li>
-</ul>
+- 📄 Property management often involves **critical paperwork** and **manual ownership verification**.
+- ⏱️ Processes are **time-consuming** and lack **transparency**.
+- 🌐 Affected stakeholders include **government agencies, banks, citizens, and investors**.
+- 🏛️ A **centralized authority** controls the data, leading to bottlenecks and trust issues.
 
-<p><em>These systemic flaws disrupt trust, slow down investment, and complicate governance.</em></p>
-</details>
+### ❗ Problem Statement
 
-
-> Developed as an academic project at **California State University, Long Beach**, PLOT combines blockchain, data analytics, UI/UX design, and product strategy to demonstrate an end-to-end prototype for digital property governance.
+> Property documents are often stored physically and can be easily tampered with. Verifying ownership involves manual checks with outdated systems. Lack of transparency, especially in real estate transactions. Limited access to records for owners or interested parties and lacks real-time verification or audit trail. High risk of fraud and duplication.
 
 ---
 
-## 🎯 Core Focus Areas
+## 📊 SECTION 2: Data Analysis
 
-- **Blockchain Ownership Model**
-  - Tamper-proof digital titles and ownership tokens
-  - Public and private key encryption for secure transfers
-
-- **Data Analytics & Visualization**
-  - Tableau dashboards built on a 70,000+ row real estate dataset
-  - Real-time insights on pricing, land distribution, and home sizes
-
-- **Mobile-First UX Design**
-  - Biometric login, real-time updates, and secure document registry
-  - ID verification and integrated crypto wallet support
-
-- **Stakeholder-Driven Strategy**
-  - Focused on governments, banks, investors, citizens, and regulators
-  - Developed monetization model for long-term sustainability
-
----
-
-## ✅ Project Outcomes
-
-| 📌 Focus Area           | ✅ Achievement                                      |
-|-------------------------|-----------------------------------------------------|
-| Data Cleaning & Prep    | Cleaned & transformed 70,000+ real estate records   |
-| Analytics               | Built KPI dashboards and anomaly detection maps     |
-| Blockchain Simulation   | Modeled tokenized ownership & smart contract flow   |
-| UX/UI Design            | Prototyped end-to-end app experience                |
-| Product Management Docs | Created roadmap, charter, stakeholder analysis      |
-
----
-
-## 📈 Analytics Dashboard Highlights
-
----
+### 📈 Analytics Dashboard Highlights
 
 ### 🗺️ State-Level Property Count by Acre Lot
 
@@ -67,8 +28,8 @@
 </p>
 
 **Context:**  
-- 🟦 **Dark Blue** = Fewer land listings (lower market activity)  
-- 🔴 **Bright Red** = Higher number of listings (more active market)  
+- 🟦 **Dark Blue** = Fewer land listings  
+- 🔴 **Bright Red** = Higher number of listings  
 - **Texas**, **Florida**, and **California** show high transaction volumes  
 - **North Dakota** and **Wyoming** indicate low or missing data  
 
@@ -81,10 +42,9 @@
 </p>
 
 **Context:**  
-- 🔴 **Red shades** = Larger houses (e.g., Utah at **2,939 sq ft**)  
-- 🔵 **Blue shades** = Smaller houses (e.g., Iowa at **1,642 sq ft**)  
-- Regions like **Utah**, **Colorado**, and **Wyoming** trend toward spacious housing  
-- **Michigan**, **Florida**, and **Iowa** lean toward compact homes  
+- 🔴 **Red shades** = Larger homes (Utah: 2,939 sq ft)  
+- 🔵 **Blue shades** = Smaller homes (Iowa: 1,642 sq ft)  
+- Spatial housing trends vary by state
 
 ---
 
@@ -95,9 +55,8 @@
 </p>
 
 **Context:**  
-- 🔴 **Dark red** = High average prices (e.g., DC at **$1.2M**, CA, CO)  
-- 🔵 **Dark blue** = Low-priced markets (e.g., Ohio, West Virginia, Iowa under **$265K**)  
-- Useful for affordability assessment and regional pricing strategy  
+- 🔴 High-priced states: DC ($1.2M), CA, CO  
+- 🔵 Lower-priced states: Ohio, WV, Iowa (< $265K)
 
 ---
 
@@ -108,79 +67,107 @@
 </p>
 
 **Context:**  
-This dashboard gives a **national snapshot** of the U.S. housing market, offering:  
-- 🛠️ Key Performance Indicators (KPIs)  
-- 🗺️ Geographic heatmaps  
-- 📊 Housing, price, and land metrics by state  
-- Supports decision-making in **urban planning**, **policy**, and **investment**  
-
+Comprehensive national insights with KPIs and visual metrics for land, size, and pricing trends.
 
 ---
-## 📸 Visual Highlights
-## 🔐 UI Screens – Set 1: Login & Identity
+
+### 🔎 Summary Conclusion
+
+The dashboards reveal:
+- High real estate activity in states like TX, CA, and FL
+- Disparities in home sizes and pricing
+- Regional insights that support policy and investment planning
+
+---
+
+## 💡 SECTION 3: Why PLOT?
+
+- 📲 Blockchain-based mobile app for:
+  - Secure registration of documents
+  - Private key access for owners
+  - Public key-based viewing for stakeholders
+
+- 🛡️ Eliminates forgery and loss  
+- 📜 Digital ownership rights and transaction rules  
+- ✅ Enables regulatory-compliant asset transfers
+
+---
+
+## 🧩 SECTION 4: Problems We’re Solving
+
+| Challenge Area         | Solution Offered                                         |
+|------------------------|----------------------------------------------------------|
+| Tokenization           | Tradable, blockchain-based ownership tokens              |
+| Global Asset Access    | Cross-border discovery and tracking                      |
+| Cost Reduction         | Smart contracts automate manual processes               |
+| Secondary Market Entry | Resale & fractional ownership support                   |
+| Operational Efficiency | Registry updates and verification automation            |
+| Broader Investor Pool  | Ownership fractionalization expands accessibility        |
+| Transparency           | Immutable public records for auditability                |
+
+---
+
+## 🚀 SECTION 5: Core Features of PLOT
+
+| Feature                               | Description |
+|--------------------------------------|-------------|
+| 📰 **Live News Feeds**               | Real-time updates on legal/property status |
+| 📁 **Document Registry**             | Upload, manage, and verify property docs |
+| 💳 **Crypto Wallet Integration**     | For payments, transfers, token ownership |
+| 📍 **Smart Property Search**         | Location-based filters with broker/pricing details |
+
+---
+
+## 🎨 SECTION 6: UI/UX Design
+
+### 🔐 UI Screens – Set 1: Login & Identity
 
 <table align="center">
   <tr>
-    <th>LOGINPAGE</th>
-    <th>SIGNUP</th>
-    <th>VERIFICATION</th>
-    <th>HOMEPAGE</th>
-    <th>USERID</th>
+    <th>LOGINPAGE</th><th>SIGNUP</th><th>VERIFICATION</th><th>HOMEPAGE</th><th>USERID</th>
   </tr>
   <tr>
-    <td><img width="170" alt="LOGINPAGE" src="https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" /></td>
-    <td><img width="180" alt="SIGNUP" src="https://github.com/user-attachments/assets/f84559e6-854a-4852-8d23-92f67ca97f49" /></td>
-    <td><img width="180" alt="VERIFICATION" src="https://github.com/user-attachments/assets/7de7f4df-20d6-49e2-9d61-e9612e44dcc5" /></td>
-    <td><img width="180" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/3a744f32-b702-434a-b23c-395dc0a175b8" /></td>
-    <td><img width="174" alt="USERID" src="https://github.com/user-attachments/assets/5aa2dc38-8697-4831-833f-dd9f453f8666" /></td>
+    <td><img width="170" src="https://github.com/user-attachments/assets/e2d64bcc-e160-42c9-ad03-240865350491" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/f84559e6-854a-4852-8d23-92f67ca97f49" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/7de7f4df-20d6-49e2-9d61-e9612e44dcc5" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/3a744f32-b702-434a-b23c-395dc0a175b8" /></td>
+    <td><img width="174" src="https://github.com/user-attachments/assets/5aa2dc38-8697-4831-833f-dd9f453f8666" /></td>
+  </tr>
+</table>
+
+### 📊 UI Screens – Set 2: Navigation & Dashboard
+
+<table align="center">
+  <tr>
+    <th>HOMEPAGE</th><th>MENUBAR</th><th>REGISTRY</th><th>ANALYTICS</th><th>TRANSFER</th>
+  </tr>
+  <tr>
+    <td><img width="180" src="https://github.com/user-attachments/assets/c40a78fd-7a7d-45ed-a87a-71b406025065" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/841cd0a9-a6d3-4631-a0af-12ae9587259c" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/ab771129-796f-46a3-a6da-ee9fc2595312" /></td>
+    <td><img width="186" src="https://github.com/user-attachments/assets/e299f73c-ea06-400b-af25-25c8e9fa77fa" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/ddfcbfbf-ca37-439a-911e-5b84d88cccf8" /></td>
+  </tr>
+</table>
+
+### 🧭 UI Screens – Set 3: Search & Transaction Details
+
+<table align="center">
+  <tr>
+    <th>SEARCH</th><th>PY DETAILS</th><th>LOCATION</th><th>HISTORY</th><th>TRANSACTION</th>
+  </tr>
+  <tr>
+    <td><img width="180" src="https://github.com/user-attachments/assets/b395cf0f-b602-4d8f-9c88-c101c2200f10" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/38a481f3-92ad-4eb9-ad9b-d70a8570f075" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/eee557c4-a4fd-4f86-a3b1-9df96656c8cc" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/9edcec5a-186a-4761-b1df-f5d616a85e6e" /></td>
+    <td><img width="180" src="https://github.com/user-attachments/assets/719bac0d-97fc-4036-ac57-f22fc0e487bb" /></td>
   </tr>
 </table>
 
 ---
 
-## 📊 UI Screens – Set 2: Navigation & Dashboard
-
-<table align="center">
-  <tr>
-    <th>HOMEPAGE</th>
-    <th>MENUBAR</th>
-    <th>REGISTRY</th>
-    <th>ANALYTICS</th>
-    <th>TRANSFER</th>
-  </tr>
-  <tr>
-    <td><img width="180" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/c40a78fd-7a7d-45ed-a87a-71b406025065" /></td>
-    <td><img width="180" alt="MENUBAR" src="https://github.com/user-attachments/assets/841cd0a9-a6d3-4631-a0af-12ae9587259c" /></td>
-    <td><img width="180" alt="REGISTRY" src="https://github.com/user-attachments/assets/ab771129-796f-46a3-a6da-ee9fc2595312" /></td>
-    <td><img width="186" alt="ANALYTICS" src="https://github.com/user-attachments/assets/e299f73c-ea06-400b-af25-25c8e9fa77fa" /></td>
-    <td><img width="180" alt="TRANSFER" src="https://github.com/user-attachments/assets/ddfcbfbf-ca37-439a-911e-5b84d88cccf8" /></td>
-  </tr>
-</table>
-
----
-
-## 🧭 UI Screens – Set 3: Search & Transaction Details
-
-<table align="center">
-  <tr>
-    <th>SEARCH</th>
-    <th>PY DETAILS</th>
-    <th>LOCATION</th>
-    <th>HISTORY</th>
-    <th>TRANSACTION</th>
-  </tr>
-  <tr>
-    <td><img width="180" alt="SEARCH" src="https://github.com/user-attachments/assets/b395cf0f-b602-4d8f-9c88-c101c2200f10" /></td>
-    <td><img width="180" alt="PY DETAILS" src="https://github.com/user-attachments/assets/38a481f3-92ad-4eb9-ad9b-d70a8570f075" /></td>
-    <td><img width="180" alt="LOCATION" src="https://github.com/user-attachments/assets/eee557c4-a4fd-4f86-a3b1-9df96656c8cc" /></td>
-    <td><img width="180" alt="HISTORY" src="https://github.com/user-attachments/assets/9edcec5a-186a-4761-b1df-f5d616a85e6e" /></td>
-    <td><img width="180" alt="TRANSACTION" src="https://github.com/user-attachments/assets/719bac0d-97fc-4036-ac57-f22fc0e487bb" /></td>
-  </tr>
-</table>
-
----
-
-## 🧠 Tech Stack
+## 🧠 SECTION 7: Tech Stack
 
 | Tool/Tech            | Usage                                  |
 |----------------------|-----------------------------------------|
@@ -192,34 +179,47 @@ This dashboard gives a **national snapshot** of the U.S. housing market, offerin
 
 ---
 
-## 👥 Team Members
+## ⚠️ SECTION 8: Challenges & Limitations
 
-- Yesha Ajaybhai Doshi  
-- Shoaeb Nawab Shaik  
-- Rithika Goud Pabathi  
-- Visnupriyan Kumarraja  
+### 🔐 Legal & Regulatory Barriers
+- Lack of legal recognition for digital land titles
+- Varying compliance standards across jurisdictions
 
----
+### 🧪 Technical Challenges
+- Managing private keys securely
+- Real-time blockchain sync across jurisdictions
+- Platform scaling under large data loads
 
-## 📂 How to Use This Repo
-
-- Explore `/docs` for:
-  - Project Charter
-  - Roadmap
-  - Stakeholder Plan
-  - Product Requirements
-
-- View `/dashboards/` for Tableau exports  
-- Visit `/src/` for the prototype interface  
-- Explore `/data/` for cleaned and raw datasets  
+### 👥 User Adoption Issues
+- Bridging the digital literacy gap
+- Overcoming public mistrust in new tech
 
 ---
 
-## 🔍 Summary
+## 🗺️ SECTION 9: Future Roadmap for PLOT
 
-PLOT offers a modern framework for secure, efficient, and transparent property management. It reduces fraud, accelerates ownership verification, and empowers all stakeholders—from citizens to governments—with a scalable, data-driven solution.
-
-> "PLOT isn’t just a student project—it’s a vision for how blockchain and analytics can transform real estate infrastructure globally."
+| Milestone | Description |
+|----------|-------------|
+| 🏛️ **Government Registry Integration** | APIs to sync with state and local land records |
+| 🤖 **AI-Powered Document Verification** | Detect forged or incomplete documents |
+| 🔗 **Tokenized Ownership** | Enable real estate token investment |
+| 🌐 **Multi-language Support** | Expand platform access globally |
+| 🧑‍💼 **Agent Dashboard** | Tools for real estate professionals |
+| 🖥️ **Web Portal** | Browser-based access for non-mobile users |
 
 ---
 
+## 🧾 SECTION 10: Conclusion – Why PLOT Matters
+
+> **"PLOT is not just an app—it's a movement."**
+
+It’s a step toward a **more secure, transparent, and decentralized future** in property management.
+
+- 🏠 **Digitizes & secures** land ownership
+- 🔐 **Empowers users** with privacy and control
+- 🌎 **Scales globally** across legal systems
+
+**PLOT delivers:**
+1. 🏘️ Democratized access to property info  
+2. ✅ Trust through blockchain verification  
+3. 📈 Foundations for a global, paperless property system  
